@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519734263 source:c:\users\jit\documents\codeblocks\c++ pointers\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<winnt.h>
+	<stddef.h>
+
